@@ -1,0 +1,15 @@
+.light-bg {
+  background-color: white;
+  color: black;
+}
+
+.dark-bg {
+  background-color: black;
+  color: white;
+}
+
+.highlightBox {
+  background-color: #FFFF00;
+  border: 5px solid black;
+  padding: 10px;
+}
